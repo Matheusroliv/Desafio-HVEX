@@ -18,3 +18,7 @@ Todo o projeto se encontra na pasta src que é composta por componentes, config 
 - Styled Components
 - Axios
 - Firebase
+- Surge
+
+### Link
+teste-hvex.surge.sh
