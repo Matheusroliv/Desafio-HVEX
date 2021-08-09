@@ -21,4 +21,4 @@ Todo o projeto se encontra na pasta src que é composta por componentes, config 
 - Surge
 
 ### Link
-teste-hvex.surge.sh
+https://teste-hvex.surge.sh/
